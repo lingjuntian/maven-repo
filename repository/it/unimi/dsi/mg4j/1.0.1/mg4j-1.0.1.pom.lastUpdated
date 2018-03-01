@@ -1,0 +1,16 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Feb 28 16:55:53 CST 2017
+http\://download.oracle.com/maven/.error=
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1488190176915
+https\://repository.jboss.org/nexus/content/repositories/snapshots/.error=
+http\://download.oracle.com/maven/.lastUpdated=1488190179501
+https\://repository.jboss.org/nexus/content/repositories/snapshots/.lastUpdated=1488190178205
+http\://cogobuy155\:8081/nexus/content/groups/public/.error=
+http\://builds.archive.org/maven2/.error=Could not transfer artifact it.unimi.dsi\:mg4j\:pom\:1.0.1 from/to builds.archive.org,maven2 (http\://builds.archive.org/maven2)\: connect timed out
+https\://repo.maven.apache.org/maven2/.lastUpdated=1488190191167
+https\://repo.maven.apache.org/maven2/.error=
+@default-builds.archive.org,maven2-http\://builds.archive.org/maven2/.lastUpdated=1488190189510
+http\://maven.restlet.org/.error=
+http\://cogobuy155\:8081/nexus/content/groups/public/.lastUpdated=1488190175589
+http\://maven.restlet.org/.lastUpdated=1488272153504
+https\://repository.jboss.org/nexus/content/groups/public/.error=

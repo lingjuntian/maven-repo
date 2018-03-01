@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jun 20 10:14:12 CST 2017
+saas-admin-2.7.5-tests.jar>=
+saas-admin-2.7.5.jar>=
+saas-admin-2.7.5-assembly.tar.gz>=
+saas-admin-2.7.5.pom>=

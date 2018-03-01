@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 09 16:11:35 CST 2017
+https\://repo.maven.apache.org/maven2/.lastUpdated=1483949495758
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1483949468557
+https\://repository.jboss.org/nexus/content/repositories/snapshots/.error=
+https\://repository.jboss.org/nexus/content/repositories/snapshots/.lastUpdated=1483949469877
+https\://repository.jboss.org/nexus/content/groups/public/.error=
+http\://cogobuy155\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.springframework\:spring-aop\:jar\:sources\:4.2.0.RELEASE from/to nexus (http\://cogobuy155\:8081/nexus/content/groups/public/)\: Failed to transfer http\://cogobuy155\:8081/nexus/content/groups/public/org/springframework/spring-aop/4.2.0.RELEASE/spring-aop-4.2.0.RELEASE-sources.jar. Error code 500, An exception occured writing the response entity
+@default-nexus-http\://cogobuy155\:8081/nexus/content/groups/public/.lastUpdated=1483949458452

@@ -1,0 +1,12 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jan 02 17:16:02 CST 2018
+http\://nexus.cogobuy.com\:8081/nexus/content/groups/public/.error=
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1486879800119
+https\://repository.jboss.org/nexus/content/repositories/snapshots/.error=
+https\://repository.jboss.org/nexus/content/repositories/snapshots/.lastUpdated=1486879801774
+http\://nexus.cogobuy.com\:8081/nexus/content/groups/public/.lastUpdated=1514884562115
+http\://cogobuy155\:8081/nexus/content/groups/public/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1486879803609
+https\://repo.maven.apache.org/maven2/.error=
+http\://cogobuy155\:8081/nexus/content/groups/public/.lastUpdated=1486879795520
+https\://repository.jboss.org/nexus/content/groups/public/.error=

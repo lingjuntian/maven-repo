@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<project
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"
+	xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>com.cogobuy.biz</groupId>
+		<artifactId>biz-crm</artifactId>
+		<version>1.0.7</version>
+	</parent>
+	<artifactId>biz-crm-service</artifactId>
+	<name>biz-crm-service</name>
+	<url>http://mvnrepo.appleframework.com</url>
+
+	<dependencies>
+		<dependency>
+			<groupId>com.cogobuy.biz</groupId>
+			<artifactId>biz-crm-bean</artifactId>
+			<version>1.0.7</version>
+		</dependency>		
+		<dependency>
+			<groupId>com.appleframework</groupId>
+			<artifactId>apple-exception</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>com.appleframework</groupId>
+			<artifactId>apple-model</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.poi</groupId>
+			<artifactId>poi-ooxml</artifactId>
+			<version>3.9</version>
+		</dependency>
+		
+	</dependencies>
+</project>

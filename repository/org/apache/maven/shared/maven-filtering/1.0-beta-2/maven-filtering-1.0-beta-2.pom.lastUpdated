@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jun 24 14:43:33 CST 2016
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1466735407647
+http\://cogobuy155\:8081/nexus/content/groups/public/.lastUpdated=1466750613438
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.shared\:maven-filtering\:pom\:1.0-beta-2 from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.

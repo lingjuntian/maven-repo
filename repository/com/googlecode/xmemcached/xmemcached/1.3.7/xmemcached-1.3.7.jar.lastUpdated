@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jun 24 10:30:04 CST 2016
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1466735090843
+https\://repository.jboss.org/nexus/content/groups/public/.error=
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1466735281769
+http\://cogobuy155\:8081/nexus/content/groups/public/.lastUpdated=1466735404191
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.googlecode.xmemcached\:xmemcached\:jar\:1.3.7 from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.

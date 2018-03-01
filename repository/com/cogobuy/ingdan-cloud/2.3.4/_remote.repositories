@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Nov 08 10:01:36 CST 2016
+ingdan-cloud-2.3.4.jar>=
+ingdan-cloud-2.3.4-tests.jar>=
+ingdan-cloud-2.3.4-assembly.tar.gz>=
+ingdan-cloud-2.3.4.pom>=

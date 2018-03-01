@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Apr 06 17:00:52 CST 2017
+saas-crm-2.8.2-assembly.tar.gz>=
+saas-crm-2.8.2.jar>=
+saas-crm-2.8.2-tests.jar>=
+saas-crm-2.8.2.pom>=

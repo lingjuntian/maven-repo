@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Feb 09 14:06:46 CST 2017
+apple-pay-common-core-1.0.0.pom>=
+apple-pay-common-core-1.0.0-sources.jar>=
+apple-pay-common-core-1.0.0.jar>=
+apple-pay-common-core-1.0.0.pom>nexus=
+apple-pay-common-core-1.0.0.jar>nexus=

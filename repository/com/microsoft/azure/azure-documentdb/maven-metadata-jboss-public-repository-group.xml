@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.microsoft.azure</groupId>
+  <artifactId>azure-documentdb</artifactId>
+  <versioning>
+    <lastUpdated>20170711011934</lastUpdated>
+  </versioning>
+</metadata>

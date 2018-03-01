@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Mar 02 15:53:47 CST 2017
+https\://repo.maven.apache.org/maven2/.lastUpdated=1488441227559
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1488432750841
+https\://repository.jboss.org/nexus/content/repositories/snapshots/.error=
+https\://repository.jboss.org/nexus/content/repositories/snapshots/.lastUpdated=1488432829690
+https\://repository.jboss.org/nexus/content/groups/public/.error=
+http\://cogobuy155\:8081/nexus/content/groups/public/.error=Could not transfer artifact net.java.dev.jna\:jna\:jar\:4.1.0 from/to nexus (http\://cogobuy155\:8081/nexus/content/groups/public/)\: cogobuy155
+@default-nexus-http\://cogobuy155\:8081/nexus/content/groups/public/.lastUpdated=1488432659613

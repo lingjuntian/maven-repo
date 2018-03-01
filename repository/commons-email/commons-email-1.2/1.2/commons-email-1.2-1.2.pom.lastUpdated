@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Mar 15 17:38:32 CST 2017
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1489570707470
+https\://repository.jboss.org/nexus/content/repositories/snapshots/.error=
+https\://repository.jboss.org/nexus/content/repositories/snapshots/.lastUpdated=1489570712152
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1489570712157
+https\://repository.jboss.org/nexus/content/groups/public/.error=
+http\://cogobuy155\:8081/nexus/content/groups/public/.error=
+http\://cogobuy155\:8081/nexus/content/groups/public/.lastUpdated=1489570703267
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact commons-email\:commons-email-1.2\:pom\:1.2 from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.

@@ -1,0 +1,16 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Feb 28 16:55:29 CST 2017
+http\://download.oracle.com/maven/.error=
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1488271613264
+https\://repository.jboss.org/nexus/content/repositories/snapshots/.error=
+http\://download.oracle.com/maven/.lastUpdated=1488271768840
+https\://repository.jboss.org/nexus/content/repositories/snapshots/.lastUpdated=1488271637063
+http\://cogobuy155\:8081/nexus/content/groups/public/.error=
+http\://builds.archive.org/maven2/.error=Could not transfer artifact com.esotericsoftware\:minlog\:jar\:1.2 from/to builds.archive.org,maven2 (http\://builds.archive.org/maven2)\: connect timed out
+https\://repo.maven.apache.org/maven2/.lastUpdated=1488271760235
+https\://repo.maven.apache.org/maven2/.error=
+@default-builds.archive.org,maven2-http\://builds.archive.org/maven2/.lastUpdated=1488271737196
+http\://maven.restlet.org/.error=
+http\://cogobuy155\:8081/nexus/content/groups/public/.lastUpdated=1488271580423
+http\://maven.restlet.org/.lastUpdated=1488272129944
+https\://repository.jboss.org/nexus/content/groups/public/.error=

@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 05 13:58:16 CST 2017
+https\://repo.maven.apache.org/maven2/.lastUpdated=1491371896747
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1491371892403
+https\://repository.jboss.org/nexus/content/repositories/snapshots/.error=
+https\://repository.jboss.org/nexus/content/repositories/snapshots/.lastUpdated=1491371894198
+https\://repository.jboss.org/nexus/content/groups/public/.error=
+http\://cogobuy155\:8081/nexus/content/groups/public/.error=Could not transfer artifact com.fasterxml\:oss-parent\:pom\:27 from/to nexus (http\://cogobuy155\:8081/nexus/content/groups/public/)\: cogobuy155
+@default-nexus-http\://cogobuy155\:8081/nexus/content/groups/public/.lastUpdated=1491371891022

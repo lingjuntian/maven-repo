@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Oct 18 14:49:17 CST 2016
+cogobuy-cloud-2.5.0.jar>=
+cogobuy-cloud-2.5.0-assembly.tar.gz>=
+cogobuy-cloud-2.5.0.pom>=
+cogobuy-cloud-2.5.0-tests.jar>=

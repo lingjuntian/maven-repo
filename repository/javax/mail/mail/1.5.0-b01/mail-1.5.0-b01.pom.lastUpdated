@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Mar 15 17:38:32 CST 2017
+@default-jboss-public-repository-group-https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1489570712188
+https\://repository.jboss.org/nexus/content/repositories/snapshots/.error=Could not transfer artifact javax.mail\:mail\:pom\:1.5.0-b01 from/to jboss-snapshot-repository-group (https\://repository.jboss.org/nexus/content/repositories/snapshots/)\: The operation was cancelled.
+@default-jboss-snapshot-repository-group-https\://repository.jboss.org/nexus/content/repositories/snapshots/.lastUpdated=1489570712194
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1489570712202
+https\://repository.jboss.org/nexus/content/groups/public/.error=Could not transfer artifact javax.mail\:mail\:pom\:1.5.0-b01 from/to jboss-public-repository-group (https\://repository.jboss.org/nexus/content/groups/public/)\: The operation was cancelled.
+http\://cogobuy155\:8081/nexus/content/groups/public/.error=Could not transfer artifact javax.mail\:mail\:pom\:1.5.0-b01 from/to nexus (http\://cogobuy155\:8081/nexus/content/groups/public/)\: The operation was cancelled.
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact javax.mail\:mail\:pom\:1.5.0-b01 from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.
+@default-nexus-http\://cogobuy155\:8081/nexus/content/groups/public/.lastUpdated=1489570712177

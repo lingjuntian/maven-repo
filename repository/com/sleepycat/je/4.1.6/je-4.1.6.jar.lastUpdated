@@ -1,0 +1,13 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Feb 28 16:49:28 CST 2017
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1488271613205
+https\://repository.jboss.org/nexus/content/repositories/snapshots/.error=
+http\://download.oracle.com/maven/.lastUpdated=1488271768471
+https\://repository.jboss.org/nexus/content/repositories/snapshots/.lastUpdated=1488271637005
+http\://cogobuy155\:8081/nexus/content/groups/public/.error=
+http\://builds.archive.org/maven2/.error=Could not transfer artifact com.sleepycat\:je\:jar\:4.1.6 from/to builds.archive.org,maven2 (http\://builds.archive.org/maven2)\: connect timed out
+https\://repo.maven.apache.org/maven2/.lastUpdated=1488271759914
+https\://repo.maven.apache.org/maven2/.error=
+@default-builds.archive.org,maven2-http\://builds.archive.org/maven2/.lastUpdated=1488271737146
+http\://cogobuy155\:8081/nexus/content/groups/public/.lastUpdated=1488271577252
+https\://repository.jboss.org/nexus/content/groups/public/.error=

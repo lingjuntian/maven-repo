@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jun 24 10:28:01 CST 2016
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1466735090858
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1466735281813
+https\://repository.jboss.org/nexus/content/groups/public/.error=
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact pinyin4j\:pinyin4j\:jar\:2.5.0 from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.

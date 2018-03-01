@@ -1,0 +1,11 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Feb 27 18:25:20 CST 2017
+@default-nexus-http\://cogobuy155\:8081/nexus/content/groups/public/.lastUpdated=1488191102232
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1488191106603
+https\://repository.jboss.org/nexus/content/repositories/snapshots/.error=
+https\://repository.jboss.org/nexus/content/repositories/snapshots/.lastUpdated=1488191107909
+http\://cogobuy155\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.slf4j\:slf4j-parent\:pom\:1.5.11 from/to nexus (http\://cogobuy155\:8081/nexus/content/groups/public/)\: Failed to transfer http\://cogobuy155\:8081/nexus/content/groups/public/org/slf4j/slf4j-parent/1.5.11/slf4j-parent-1.5.11.pom. Error code 500, An exception occured writing the response entity
+http\://builds.archive.org/maven2/.error=Could not transfer artifact org.slf4j\:slf4j-parent\:pom\:1.5.11 from/to builds.archive.org,maven2 (http\://builds.archive.org/maven2)\: connect timed out
+https\://repo.maven.apache.org/maven2/.lastUpdated=1488191120616
+@default-builds.archive.org,maven2-http\://builds.archive.org/maven2/.lastUpdated=1488191117928
+https\://repository.jboss.org/nexus/content/groups/public/.error=

@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jun 24 10:30:05 CST 2016
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1466735090867
+https\://repository.jboss.org/nexus/content/groups/public/.error=
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1466735281846
+http\://cogobuy155\:8081/nexus/content/groups/public/.lastUpdated=1466735405190
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact jcseg-core\:jcseg-core\:jar\:1.9.5 from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.

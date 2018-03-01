@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Mar 02 11:06:50 CST 2017
+https\://repo.maven.apache.org/maven2/.lastUpdated=1488424010999
+http\://cogobuy155\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.apache.maven.plugins\:maven-javadoc-plugin\:jar\:2.9.1 from/to nexus (http\://cogobuy155\:8081/nexus/content/groups/public)\: Failed to transfer http\://cogobuy155\:8081/nexus/content/groups/public/org/apache/maven/plugins/maven-javadoc-plugin/2.9.1/maven-javadoc-plugin-2.9.1.jar. Error code 500, An exception occured writing the response entity
+@default-nexus-http\://cogobuy155\:8081/nexus/content/groups/public/.lastUpdated=1488423952821

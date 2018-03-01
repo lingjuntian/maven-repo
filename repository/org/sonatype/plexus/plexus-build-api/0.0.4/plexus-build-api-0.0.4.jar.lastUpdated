@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jun 24 10:28:11 CST 2016
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1466733931130
+http\://cogobuy155\:8081/nexus/content/groups/public/.lastUpdated=1466735291179
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.sonatype.plexus\:plexus-build-api\:jar\:0.0.4 from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.

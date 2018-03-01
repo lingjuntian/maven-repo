@@ -1,0 +1,11 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Feb 28 16:49:19 CST 2017
+@default-nexus-http\://cogobuy155\:8081/nexus/content/groups/public/.lastUpdated=1488271576936
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1488271613193
+https\://repository.jboss.org/nexus/content/repositories/snapshots/.error=
+https\://repository.jboss.org/nexus/content/repositories/snapshots/.lastUpdated=1488271636999
+http\://cogobuy155\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.apache.httpcomponents\:httpclient\:jar\:4.3.6 from/to nexus (http\://cogobuy155\:8081/nexus/content/groups/public/)\: Failed to transfer http\://cogobuy155\:8081/nexus/content/groups/public/org/apache/httpcomponents/httpclient/4.3.6/httpclient-4.3.6.jar. Error code 500, An exception occured writing the response entity
+http\://builds.archive.org/maven2/.error=Could not transfer artifact org.apache.httpcomponents\:httpclient\:jar\:4.3.6 from/to builds.archive.org,maven2 (http\://builds.archive.org/maven2)\: connect timed out
+https\://repo.maven.apache.org/maven2/.lastUpdated=1488271759761
+@default-builds.archive.org,maven2-http\://builds.archive.org/maven2/.lastUpdated=1488271737133
+https\://repository.jboss.org/nexus/content/groups/public/.error=

@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Apr 24 09:52:17 CST 2017
+https\://repo.maven.apache.org/maven2/.lastUpdated=1492998737336
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1492998729800
+https\://repository.jboss.org/nexus/content/repositories/snapshots/.error=
+https\://repository.jboss.org/nexus/content/repositories/snapshots/.lastUpdated=1492998730940
+https\://repository.jboss.org/nexus/content/groups/public/.error=
+http\://cogobuy155\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.springframework\:spring-beans\:jar\:sources\:4.2.0.RELEASE from/to nexus (http\://cogobuy155\:8081/nexus/content/groups/public/)\: connect timed out
+@default-nexus-http\://cogobuy155\:8081/nexus/content/groups/public/.lastUpdated=1492998728173
