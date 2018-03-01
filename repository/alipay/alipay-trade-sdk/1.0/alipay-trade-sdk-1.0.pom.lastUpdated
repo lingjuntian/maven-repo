@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Feb 09 14:47:26 CST 2017
+https\://repo.maven.apache.org/maven2/.lastUpdated=1486622846226
+@default-jboss-public-repository-group-https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1486622838983
+https\://repository.jboss.org/nexus/content/repositories/snapshots/.error=
+https\://repository.jboss.org/nexus/content/repositories/snapshots/.lastUpdated=1486622844227
+https\://repository.jboss.org/nexus/content/groups/public/.error=Could not transfer artifact alipay\:alipay-trade-sdk\:pom\:1.0 from/to jboss-public-repository-group (https\://repository.jboss.org/nexus/content/groups/public/)\: Read timed out
+http\://cogobuy155\:8081/nexus/content/groups/public/.error=
+http\://cogobuy155\:8081/nexus/content/groups/public/.lastUpdated=1486621038362
+https\://repo.maven.apache.org/maven2/.error=
